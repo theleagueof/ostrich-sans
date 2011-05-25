@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>750</integer>
+	<key>capHeight</key>
+	<integer>675</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2011 by Tyler Finck. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-250</integer>
+	<key>familyName</key>
+	<string>Ostrich Sans Rounded Medium</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>openTypeHeadCreated</key>
+	<string>2011/05/25 16:47:21</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Ostrich Sans Rounded</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Medium</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>OstrichSansRounded-Medium</string>
+	<key>postscriptFullName</key>
+	<string>Ostrich Sans Rounded Medium</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-75</integer>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>676</integer>
+</dict>
+</plist>
