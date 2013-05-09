@@ -1,4 +1,4 @@
-	Copyright (c) 2011, Tyler Fink <hello@sursly.com>, with Reserved Font Name: "Ostrich Sans".
+	Copyright (c) 2011, Tyler Finck <hi@tylerfinck.com>, with Reserved Font Name: "Ostrich Sans".
 
 	This Font Software is licensed under the SIL Open Font License, Version 1.1.
 	This license is copied below, and is also available with a FAQ at:
