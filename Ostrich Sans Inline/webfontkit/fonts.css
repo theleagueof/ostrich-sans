@@ -1,0 +1,17 @@
+
+@font-face {
+	font-family: 'Ostrich Sans Inline Italic';
+	src: url('Ostrich Sans Inline-italic.eot');
+	src: local('☺'), url('Ostrich Sans Inline-italic.woff') format('woff'), url('Ostrich Sans Inline-italic.ttf') format('truetype'), url('Ostrich Sans Inline-italic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Ostrich Sans Inline';
+	src: url('Ostrich Sans Inline-regular.eot');
+	src: local('☺'), url('Ostrich Sans Inline-regular.woff') format('woff'), url('Ostrich Sans Inline-regular.ttf') format('truetype'), url('Ostrich Sans Inline-regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
