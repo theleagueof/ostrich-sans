@@ -12,6 +12,8 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
+	<key>CR</key>
+	<string>CR_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>E</key>
@@ -224,8 +226,6 @@
 	<string>u.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
-	<key>uni000D</key>
-	<string>uni000D_.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>

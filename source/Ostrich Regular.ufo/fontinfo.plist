@@ -6,16 +6,20 @@
 	<integer>750</integer>
 	<key>capHeight</key>
 	<integer>674</integer>
-	<key>copyright</key>
-	<string>Copyright (c) 2011 by Tyler Finck. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
 	<string>Ostrich Sans Medium</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
 	<string>2011/05/25 16:47:21</string>
+	<key>openTypeNameDesigner</key>
+	<string>Tyler Finck</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.finck.co</string>
+	<key>openTypeNameManufacturer</key>
+	<string>The League of Moveable Type</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.theleagueofmoveabletype.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Ostrich Sans</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
