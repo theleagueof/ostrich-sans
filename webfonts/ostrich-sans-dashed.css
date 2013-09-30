@@ -6,7 +6,7 @@
   src: local('☺'),
     url('ostrich-sans-dashed-webfont.woff') format('woff'),
     url('ostrich-sans-dashed-webfont.ttf') format('truetype'),
-    url('ostrich-sans-dashed-webfont.svg') format('svg');
+    url('ostrich-sans-dashed-webfont.svg#OstrichSansDashedMedium') format('svg');
   font-weight: 500;
   font-style: normal;
 }

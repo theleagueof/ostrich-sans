@@ -6,7 +6,7 @@
   src: local('☺'),
     url('ostrich-sans-black-webfont.woff') format('woff'),
     url('ostrich-sans-black-webfont.ttf') format('truetype'),
-    url('ostrich-sans-black-webfont.svg') format('svg');
+    url('ostrich-sans-black-webfont.svg#OstrichSansBlack') format('svg');
   font-weight: 900;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
   src: local('☺'),
     url('ostrich-sans-bold-webfont.woff') format('woff'),
     url('ostrich-sans-bold-webfont.ttf') format('truetype'),
-    url('ostrich-sans-bold-webfont.svg') format('svg');
+    url('ostrich-sans-bold-webfont.svg#OstrichSansBold') format('svg');
   font-weight: 700;
   font-style: normal;
 }
@@ -26,7 +26,7 @@
   src: local('☺'),
     url('ostrich-sans-webfont.woff') format('woff'),
     url('ostrich-sans-webfont.ttf') format('truetype'),
-    url('ostrich-sans-webfont.svg') format('svg');
+    url('ostrich-sans-webfont.svg#OstrichSansMedium') format('svg');
   font-weight: 400;
   font-style: normal;
 }
@@ -36,7 +36,7 @@
   src: local('☺'),
     url('ostrich-sans-light-webfont.woff') format('woff'),
     url('ostrich-sans-light-webfont.ttf') format('truetype'),
-    url('ostrich-sans-light-webfont.svg') format('svg');
+    url('ostrich-sans-light-webfont.svg#OstrichSansCondensedLight') format('svg');
   font-weight: 300;
   font-style: normal;
 }

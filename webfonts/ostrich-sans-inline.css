@@ -6,7 +6,7 @@
   src: local('☺'),
     url('ostrich-sans-inline-webfont.woff') format('woff'),
     url('ostrich-sans-inline-webfont.ttf') format('truetype'),
-    url('ostrich-sans-inline-webfont.svg') format('svg');
+    url('ostrich-sans-inline-webfont.svg#MISSING') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
   src: local('☺'),
     url('ostrich-sans-inline-italic-webfont.woff') format('woff'),
     url('ostrich-sans-inline-italic-webfont.ttf') format('truetype'),
-    url('ostrich-sans-inline-italic-webfont.svg') format('svg');
+    url('ostrich-sans-inline-italic-webfont.svg#MISSING') format('svg');
   font-weight: normal;
   font-style: italic;
 }
