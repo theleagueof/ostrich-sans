@@ -3,7 +3,10 @@
 @font-face {
   font-family: 'Ostrich Sans Rounded';
   src: url('ostrich-sans-rounded-webfont.eot');
-  src: local('☺'), url('ostrich-sans-rounded-webfont.woff') format('woff'), url('ostrich-sans-rounded-webfont.ttf') format('truetype'), url('ostrich-sans-rounded-webfont.svg') format('svg');
+  src: local('☺'),
+    url('ostrich-sans-rounded-webfont.woff') format('woff'),
+    url('ostrich-sans-rounded-webfont.ttf') format('truetype'),
+    url('ostrich-sans-rounded-webfont.svg') format('svg');
   font-weight: 500;
   font-style: normal;
 }
