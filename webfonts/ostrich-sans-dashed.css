@@ -1,12 +1,18 @@
-/* Ostrich Sans Dashed */
+/*
+  'Ostrich Sans Dashed'
+  https://www.theleagueofmoveabletype.com/ostrich-sans
 
+  Copyright (c) 2011, Tyler Finck <hi@tylerfinck.com>,
+  with Reserved Font Name: "Ostrich Sans".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  http://scripts.sil.org/OFL
+*/
 @font-face {
   font-family: 'Ostrich Sans Dashed';
-  src: url('ostrich-sans-dashed-webfont.eot');
-  src: local('☺'),
-    url('ostrich-sans-dashed-webfont.woff') format('woff'),
-    url('ostrich-sans-dashed-webfont.ttf') format('truetype'),
-    url('ostrich-sans-dashed-webfont.svg#OstrichSansDashedMedium') format('svg');
-  font-weight: 500;
-  font-style: normal;
+  font-weight: 500; /* Medium */
+  src: url('ostrich-sans-dashed-webfont.eot?#iefix') format('embedded-opentype'),
+       url('ostrich-sans-dashed-webfont.woff') format('woff'),
+       url('ostrich-sans-dashed-webfont.ttf')  format('truetype'),
+       url('ostrich-sans-dashed-webfont.svg#OstrichSansDashedMedium') format('svg');
 }

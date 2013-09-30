@@ -1,22 +1,27 @@
-/* Ostrich Sans Inline */
+/*
+  'Ostrich Sans Inline'
+  https://www.theleagueofmoveabletype.com/ostrich-sans
+
+  Copyright (c) 2011, Tyler Finck <hi@tylerfinck.com>,
+  with Reserved Font Name: "Ostrich Sans".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  http://scripts.sil.org/OFL
+*/
+@font-face {
+  font-family: 'Ostrich Sans Inline';
+  font-style: normal; /* Roman (Regular) */
+  src: url('ostrich-sans-inline-webfont.eot?#iefix') format('embedded-opentype'),
+       url('ostrich-sans-inline-webfont.woff') format('woff'),
+       url('ostrich-sans-inline-webfont.ttf')  format('truetype'),
+       url('ostrich-sans-inline-webfont.svg#MISSING') format('svg');
+}
 
 @font-face {
   font-family: 'Ostrich Sans Inline';
-  src: url('ostrich-sans-inline-webfont.eot');
-  src: local('☺'),
-    url('ostrich-sans-inline-webfont.woff') format('woff'),
-    url('ostrich-sans-inline-webfont.ttf') format('truetype'),
-    url('ostrich-sans-inline-webfont.svg#MISSING') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Ostrich Sans Inline';
-  src: url('ostrich-sans-inline-italic-webfont.eot');
-  src: local('☺'),
-    url('ostrich-sans-inline-italic-webfont.woff') format('woff'),
-    url('ostrich-sans-inline-italic-webfont.ttf') format('truetype'),
-    url('ostrich-sans-inline-italic-webfont.svg#MISSING') format('svg');
-  font-weight: normal;
   font-style: italic;
+  src: url('ostrich-sans-inline-italic-webfont.eot?#iefix') format('embedded-opentype'),
+       url('ostrich-sans-inline-italic-webfont.woff') format('woff'),
+       url('ostrich-sans-inline-italic-webfont.ttf')  format('truetype'),
+       url('ostrich-sans-inline-italic-webfont.svg#MISSING') format('svg');
 }
