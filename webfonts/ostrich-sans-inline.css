@@ -2,15 +2,15 @@
 
 @font-face {
 	font-family: 'Ostrich Sans Inline';
-	src: url('ostrich-sans-inline-regular.eot');
-	src: local('☺'), url('ostrich-sans-inline-regular.woff') format('woff'), url('ostrich-sans-inline-regular.ttf') format('truetype'), url('ostrich-sans-inline-regular.svg') format('svg');
+	src: url('ostrich-sans-inline-webfont.eot');
+	src: local('☺'), url('ostrich-sans-inline-webfont.woff') format('woff'), url('ostrich-sans-inline-webfont.ttf') format('truetype'), url('ostrich-sans-inline-webfont.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Ostrich Sans Inline';
-	src: url('ostrich-sans-inline-italic.eot');
-	src: local('☺'), url('ostrich-sans-inline-italic.woff') format('woff'), url('ostrich-sans-inline-italic.ttf') format('truetype'), url('ostrich-sans-inline-italic.svg') format('svg');
+	src: url('ostrich-sans-inline-italic-webfont.eot');
+	src: local('☺'), url('ostrich-sans-inline-italic-webfont.woff') format('woff'), url('ostrich-sans-inline-italic-webfont.ttf') format('truetype'), url('ostrich-sans-inline-italic-webfont.svg') format('svg');
 	font-weight: normal;
 	font-style: italic;
 }

@@ -2,8 +2,8 @@
 
 @font-face {
 	font-family: 'Ostrich Sans Dashed';
-	src: url('ostrich-dashed.eot');
-	src: local('☺'), url('ostrich-dashed.woff') format('woff'), url('ostrich-dashed.ttf') format('truetype'), url('ostrich-dashed.svg') format('svg');
+	src: url('ostrich-sans-dashed-webfont.eot');
+	src: local('☺'), url('ostrich-sans-dashed-webfont.woff') format('woff'), url('ostrich-sans-dashed-webfont.ttf') format('truetype'), url('ostrich-sans-dashed-webfont.svg') format('svg');
 	font-weight: 500;
 	font-style: normal;
 }
