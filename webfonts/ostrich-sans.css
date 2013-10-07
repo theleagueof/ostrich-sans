@@ -11,6 +11,7 @@
 @font-face {
   font-family: 'Ostrich Sans';
   font-weight: 900; /* Black */
+  src: url('ostrich-sans-black-webfont.eot'),
   src: url('ostrich-sans-black-webfont.eot?#iefix') format('embedded-opentype'),
        url('ostrich-sans-black-webfont.woff') format('woff'),
        url('ostrich-sans-black-webfont.ttf')  format('truetype'),
@@ -20,6 +21,7 @@
 @font-face {
   font-family: 'Ostrich Sans';
   font-weight: 700; /* Bold */
+  src: url('ostrich-sans-bold-webfont.eot'),
   src: url('ostrich-sans-bold-webfont.eot?#iefix') format('embedded-opentype'),
        url('ostrich-sans-bold-webfont.woff') format('woff'),
        url('ostrich-sans-bold-webfont.ttf')  format('truetype'),
@@ -29,6 +31,7 @@
 @font-face {
   font-family: 'Ostrich Sans';
   font-weight: 500; /* Medium */
+  src: url('ostrich-sans-webfont.eot'),
   src: url('ostrich-sans-webfont.eot?#iefix') format('embedded-opentype'),
        url('ostrich-sans-webfont.woff') format('woff'),
        url('ostrich-sans-webfont.ttf')  format('truetype'),
@@ -38,6 +41,7 @@
 @font-face {
   font-family: 'Ostrich Sans';
   font-weight: 300; /* Light */
+  src: url('ostrich-sans-light-webfont.eot'),
   src: url('ostrich-sans-light-webfont.eot?#iefix') format('embedded-opentype'),
        url('ostrich-sans-light-webfont.woff') format('woff'),
        url('ostrich-sans-light-webfont.ttf')  format('truetype'),
