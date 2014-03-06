@@ -12,5 +12,6 @@ A gorgeous modern sans-serif with a very long neck. With a whole slew of styles 
 - Normal
 - Bold (race track style double lines)
 - Black
+- Inline (with italics)
+- Heavy (round)
 
-Ostrich Sans Inline is the most recent to the family and has basic international character support and an italic style.
