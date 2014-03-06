@@ -33,8 +33,8 @@
 
 @font-face {
 	font-family: 'Ostrich Sans Dashed';
-	src: url('ostrich-dashed.eot');
-	src: local('☺'), url('ostrich-dashed.woff') format('woff'), url('ostrich-dashed.ttf') format('truetype'), url('ostrich-dashed.svg') format('svg');
+	src: url('ostrich-sans-dashed.eot');
+	src: local('☺'), url('ostrich-sans-dashed.woff') format('woff'), url('ostrich-sans-dashed.ttf') format('truetype'), url('ostrich-sans-dashed.svg') format('svg');
 	font-weight: 500;
 	font-style: normal;
 }
@@ -43,8 +43,8 @@
 
 @font-face {
 	font-family: 'Ostrich Sans Rounded';
-	src: url('ostrich-rounded.eot');
-	src: local('☺'), url('ostrich-rounded.woff') format('woff'), url('ostrich-rounded.ttf') format('truetype'), url('ostrich-rounded.svg') format('svg');
+	src: url('ostrich-sans-rounded.eot');
+	src: local('☺'), url('ostrich-sans-rounded.woff') format('woff'), url('ostrich-sans-rounded.ttf') format('truetype'), url('ostrich-sans-rounded.svg') format('svg');
 	font-weight: 500;
 	font-style: normal;
 }
