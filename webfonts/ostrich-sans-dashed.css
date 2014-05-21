@@ -11,7 +11,7 @@
 @font-face {
   font-family: 'Ostrich Sans Dashed';
   font-weight: 500; /* Medium */
-  src: url('ostrich-sans-dashed-webfont.eot'),
+  src: url('ostrich-sans-dashed-webfont.eot');
   src: url('ostrich-sans-dashed-webfont.eot?#iefix') format('embedded-opentype'),
        url('ostrich-sans-dashed-webfont.woff') format('woff'),
        url('ostrich-sans-dashed-webfont.ttf')  format('truetype'),

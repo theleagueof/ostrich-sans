@@ -11,7 +11,7 @@
 @font-face {
   font-family: 'Ostrich Sans Inline';
   font-style: normal; /* Roman (Regular) */
-  src: url('ostrich-sans-inline-webfont.eot'),
+  src: url('ostrich-sans-inline-webfont.eot');
   src: url('ostrich-sans-inline-webfont.eot?#iefix') format('embedded-opentype'),
        url('ostrich-sans-inline-webfont.woff') format('woff'),
        url('ostrich-sans-inline-webfont.ttf')  format('truetype'),
@@ -21,7 +21,7 @@
 @font-face {
   font-family: 'Ostrich Sans Inline';
   font-style: italic;
-  src: url('ostrich-sans-inline-italic-webfont.eot'),
+  src: url('ostrich-sans-inline-italic-webfont.eot');
   src: url('ostrich-sans-inline-italic-webfont.eot?#iefix') format('embedded-opentype'),
        url('ostrich-sans-inline-italic-webfont.woff') format('woff'),
        url('ostrich-sans-inline-italic-webfont.ttf')  format('truetype'),

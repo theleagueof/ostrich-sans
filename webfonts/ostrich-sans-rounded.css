@@ -11,7 +11,7 @@
 @font-face {
   font-family: 'Ostrich Sans Rounded';
   font-weight: 500; /* Medium */
-  src: url('ostrich-sans-rounded-webfont.eot'),
+  src: url('ostrich-sans-rounded-webfont.eot');
   src: url('ostrich-sans-rounded-webfont.eot?#iefix') format('embedded-opentype'),
        url('ostrich-sans-rounded-webfont.woff') format('woff'),
        url('ostrich-sans-rounded-webfont.ttf')  format('truetype'),
