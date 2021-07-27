@@ -1,2 +1,12 @@
+.fontship
+*.otf
+*.ttf
+*.woff
+*.woff2
+OstrichSans-*
+!*/OstrichSans-*
 .DS_Store
-references/*
+sources/*(Autosaved).glyphs
+sources/*_backups
+sources/*.glyphs
+sources/*.sfd
